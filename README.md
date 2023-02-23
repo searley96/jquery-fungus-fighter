@@ -28,7 +28,7 @@ When you click an attack button:
 - If you run out of AP, the monster wins and humanity is doomed 😢 Replace the `walk` class with a `jump` class on the freaky-fungus element, to make them jump for the glory of the fungal race.
   - You may no longer attack, if AP is `0`. Give all of the attack buttons a [`disabled`](https://www.w3schools.com/tags/att_button_disabled.asp) attribute, so they may no longer be used. 
 
-## Stretch Goals
+<!-- ## Stretch Goals
 
 **Progress Bar**
 
@@ -43,7 +43,7 @@ When state changes:
 
 If the Freaky Fungus' HP falls below 50, have it regenerate 1 HP every second.
 
-> HINT: Look up the built in `setInterval()` function!
+> HINT: Look up the built in `setInterval()` function! -->
 
 
 ## Attacks
